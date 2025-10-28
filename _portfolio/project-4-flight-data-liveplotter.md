@@ -12,7 +12,6 @@ The application listens to a serial port connected to a ground-based receiver, w
 ### Key Features & Application
 * **Real-Time Visualization:** The GUI parses incoming data and dynamically updates plots, providing immediate insight into critical flight parameters.
 * **System Monitoring:** This tool allows for live monitoring of system health and performance during flight tests, enabling a quick diagnosis of any potential issues.
-* **Post-Processing Capability:** In addition to live plotting, the tool was also designed for post-flight analysis, capable of loading and visualizing large, previously recorded datasets.
 
 The image below shows the plotter visualizing a set of randomized sinusoids, simulating the type of data received from a port during a test.
 
