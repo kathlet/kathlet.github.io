@@ -25,18 +25,16 @@ Work experience
   * Brigham Young University
   * Duties included: Designing and manufacturing mounts for sensors on autonomous watercraft
 
-* Summer 2015: Financial Wellness Intern
+* September 2021: Financial Wellness Intern
   * Southern Utah University
   * Duties included: Developing methods to ensure student financial education
   
 Skills
 ======
-* Skill 1
-* Programming
-  * Python
-  * FORTRAN
-  * C++
-* Skill 3
+* **Languages:** Python (NumPy, SciPy, Matplotlib), MATLAB, C/C++ (for Arduino/Teensy), FORTRAN
+* **Software:** SolidWorks, FlightStream, LaTeX, Microsoft Office Suite
+* **Analysis:** Polynomial Fitting, System Dynamics, Data Analysis, System Identification
+* **Hardware & Mechatronics:** Teensy & Arduino Microcontrollers, Data Acquisition, System Integration, Sensor Selection, Servo Control
 
 Publications
 ======

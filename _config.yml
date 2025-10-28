@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Kathle Tischner"
   pronouns         : # example: "she/her"  
-  bio              : "Mechanical Engineer | Aerodynamic Modeling and Analysis | Utah State University"
+  bio              : "Mechanical Engineer | Aerodynamic Modeling and Analysis"
   location         : "Logan, UT, USA"
   employer         : "Utah State University"
   uri              : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/kathle-tischner/"
+  linkedin         : "kathle-tischner"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
