@@ -1,16 +1,27 @@
 ---
 title: "HTML Flight Data Viewer"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/html_viewer.png'>"
+excerpt: "Developed a Python tool to automatically parse flight datalogs and generate a self-contained, interactive HTML dashboard. Features include cursor-linked plots, a live attitude indicator, and a flight path map for rapid analysis.<br/><img src='/images/html_viewer.png'>"
 collection: portfolio
 ---
 
-Created a python tool that will take flight data for a specific datalog and output a html that allows easy analysis of the flight data with interactive plots. The attitude and flight path is updated live based on the cursor location. 
+### Problem & Solution
 
-In this format, the flight data can be quickly looked at for initial analysis. The data is zoomed into the main flight window, determined by the initial increase in velocity from the flight data. 
+Raw flight datalogs are dense and difficult to analyze quickly. To streamline this process, I developed a Python tool that automatically parses a flight datalog and generates a single, self-contained HTML file.
 
-An example of the HTML viewer is shown below, data is from a flight test on a Viper Scout. The buttons 'Toggle Map' and 'Attitude Indicator' toggle the visibility of an attitude indicator and a flight path which updates based on the cursor location on the flight data. Additionally, the sattelite count, framelosses, and RSSI is shown at the top of the document.
+This file provides an interactive dashboard, allowing pilots and engineers to easily review flight data. The data is automatically zoomed to the main "flight window" (determined by the initial increase in velocity), filtering out ground setup and post-flight noise.
 
-### Interactive Flight Data
+### Key Features
+
+* **Interactive Data Plots:** All flight data is presented in interactive plots. Hovering the cursor at any point in time updates all other widgets on the page.
+* **Live-Updating Widgets:** The dashboard includes:
+    * An **Attitude Indicator** that updates based on the cursor's time position.
+    * A **2D Flight Path Map** that plots the aircraft's position, also linked to the cursor.
+    * Both widgets can be toggled on or off by the user.
+* **Heads-Up Display (HUD):** Critical data such as satellite count, framelosses, and RSSI are displayed at the top for a constant, easy-to-read overview.
+
+### Interactive Demo
+
+Below is an embedded example from a flight test on a Viper Scout. Hover your mouse over the plots to see the attitude indicator and map update in real-time.
 
 <!-- <iframe src="/files/4-6-25_ViperScout_Flight2.html" width="100%" height="600" style="border:1px solid #ddd;">
   Your browser does not support iframes. Please view the data directly at
