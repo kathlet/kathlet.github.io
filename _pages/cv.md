@@ -12,32 +12,32 @@ redirect_from:
 Education
 ======
 * **M.S. in Mechanical Engineering**  
-  Utah State University — Logan, Utah
+  Utah State University — _Logan, Utah_
   * _Expected December 2025_
   * GPA: 3.77
 
 * **B.S. in Mechanical Engineering**  
-  Utah State University — Logan, Utah
+  Utah State University — _Logan, Utah_
   * _May 2024_
   * GPA: 3.85
 
 Work Experience
 ======
 * **Graduate Student Researcher**  
-  Utah State University AeroLab
+  _Utah State University AeroLab_
   * _Jan 2023 - Present_
   * Supported the design, integration, and deployment of a modular, Teensy-based data acquisition system, from component selection through successful field testing.
   * Performed system identification on complex dynamic systems using custom polynomial fitting code in Python to analyze test data, characterize system behavior, and validate predictive models.
   * Developed automated data processing workflows using Python and FlightStream scripting to create aerodynamic databases and extract key aerodynamic coefficients.
 
 * **Graduate Teaching Assistant**  
-  Utah State University
+  _Utah State University_
   * _Aug 2024 - May 2025_
   * Served as a teaching assistant for undergraduate Heat Transfer and Advanced Dynamics courses, mentoring over 100 students.
   * Led supplemental instruction and weekly review sessions to clarify complex thermodynamics topics.
 
 * **Undergraduate Student Researcher**  
-  Brigham Young University
+  _Brigham Young University_
   * _May 2022 - Aug 2022_
   * Designed and fabricated electrical mounting systems for an autonomous wheelchair and an underwater robot.
   * Utilized 3D printers and metal lathes to develop mounting systems.
