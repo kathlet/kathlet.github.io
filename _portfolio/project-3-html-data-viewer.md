@@ -4,7 +4,11 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/htm
 collection: portfolio
 ---
 
-Created a python tool that will take flight data for a specific datalog and output a html that allows easy analysis of hte flight data with interactive plots. The attitude and flight path is updated live based on the cursor location. 
+Created a python tool that will take flight data for a specific datalog and output a html that allows easy analysis of the flight data with interactive plots. The attitude and flight path is updated live based on the cursor location. 
+
+In this format, the flight data can be quickly looked at for initial analysis. The data is zoomed into the main flight window, determined by the initial increase in velocity from the flight data. 
+
+An example of the HTML viewer is shown below, data is from a flight test on a Viper Scout. The buttons 'Toggle Map' and 'Attitude Indicator' toggle the visibility of an attitude indicator and a flight path which updates based on the cursor location on the flight data. Additionally, the sattelite count, framelosses, and RSSI is shown at the top of the document.
 
 ### Interactive Flight Data
 
