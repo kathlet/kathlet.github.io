@@ -57,7 +57,7 @@ Skills
 
 Awards/Certifications
 ======
-* Fundamentals of Engineering (FE) Mechanical - NCEES (August 2023)
+* [Fundamentals of Engineering (FE) Mechanical - NCEES (August 2023)](https://account.ncees.org/rn/2319684-1624903-f7a6ec9)
 * Engineering Undergraduate Research Scholar (EURS) - USU (January 2023)
 * Eagle Scout - Boy Scouts of America (May 2017)
 

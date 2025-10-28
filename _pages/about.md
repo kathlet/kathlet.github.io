@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kathle Tischner | Mechanical Engineer"
+title: "Kathle Tischner - Mechanical Engineer"
 author_profile: true
 redirect_from: 
   - /about/
