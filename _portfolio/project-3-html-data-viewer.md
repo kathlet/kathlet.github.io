@@ -8,7 +8,11 @@ Created a python tool that will take flight data for a specific datalog and outp
 
 ### Interactive Flight Data
 
-<iframe src="/files/4-6-25_ViperScout_Flight2.html" width="100%" height="600" style="border:1px solid #ddd;">
+<!-- <iframe src="/files/4-6-25_ViperScout_Flight2.html" width="100%" height="600" style="border:1px solid #ddd;">
   Your browser does not support iframes. Please view the data directly at
   <a href="/files/4-6-25_ViperScout_Flight2.html">ViperScout Flight 2 Data</a>.
-</iframe>
+</iframe> -->
+
+<div class="full-bleed-iframe" style="position:relative;left:50%;right:50%;margin-left:-50vw;margin-right:-50vw;width:100vw;max-width:100vw;">
+  <iframe src="/files/4-6-25_ViperScout_Flight2.html" style="width:100%;height:700px;border:1px solid #ddd;" title="Flight data viewer" loading="lazy"></iframe>
+</div>
