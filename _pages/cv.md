@@ -12,8 +12,13 @@ redirect_from:
 <hr/>
 <hr/>
 
+Summary
+-----
+<hr/>
+Mechanical engineer with a focus in aerodynamic modeling, dynamic systems, and data-driven system identification. Experienced in using FlightStream for aerodynamic database creation and analysis, comparing aerodynamic models derived from low and mid fidelity aerodynamic tools. Practiced at developing automated analysis pipelines in Python, with hands-on hardware integration experience.
+
 Education
-======
+-----
 <hr/>
 * **M.S. in Mechanical Engineering**  
   Utah State University — _Logan, Utah_
@@ -26,7 +31,7 @@ Education
   * GPA: 3.85
 
 Work Experience
-======
+-----
 <hr/>
 * **Graduate Student Researcher**  
   _Utah State University AeroLab_
@@ -48,14 +53,14 @@ Work Experience
   * Utilized 3D printers and metal lathes to develop mounting systems.
   
 Publications
-======
+-----
 <hr/>
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Skills
-======
+-----
 <hr/>
 * **Languages:** Python (NumPy, SciPy, Matplotlib), MATLAB, C/C++ (Arduino/Teensy), FORTRAN
 * **Software:** SolidWorks, FlightStream, LaTeX, Microsoft Office Suite
@@ -63,7 +68,7 @@ Skills
 * **Hardware & Mechatronics:** Teensy & Arduino microcontrollers, data acquisition, system integration, sensor selection, servo control
 
 Awards/Certifications
-======
+-----
 <hr/>
 * [Fundamentals of Engineering (FE) Mechanical - NCEES (August 2023)](https://account.ncees.org/rn/2319684-1624903-f7a6ec9)
 * Engineering Undergraduate Research Scholar (EURS) - USU (January 2023)
