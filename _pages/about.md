@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! [cite_start]I am a Mechanical Engineer pursuing my M.S. at Utah State University with a focus in aerodynamic modeling, dynamic systems, and data-driven system identification[cite: 4, 8, 9].
+Welcome! I am a Mechanical Engineer pursuing my M.S. at Utah State University with a focus in aerodynamic modeling, dynamic systems, and data-driven system identification.
 
-[cite_start]My core experience includes using FlightStream for aerodynamic database creation [cite: 5][cite_start], developing automated data analysis pipelines in Python [cite: 6, 28][cite_start], and hands-on hardware integration with Teensy and Arduino systems[cite: 22, 26].
+My core experience includes using FlightStream for aerodynamic database creation, developing automated data analysis pipelines in Python , and hands-on hardware integration with Teensy and Arduino systems.
 
 I am actively seeking full-time opportunities where I can apply my skills in aerodynamics, controls, and mechatronics. Please feel free to explore my work below and contact me.
 
@@ -21,14 +21,11 @@ I am actively seeking full-time opportunities where I can apply my skills in aer
 
 Here are a few examples of my work. You can find more on my [Portfolio page](/portfolio/).
 
-### [HTML Flight Data Viewer](/portfolio/HTML-Flight-Data-Viewer)
-> Developed a Python tool to automatically parse flight datalogs and generate a self-contained, interactive HTML dashboard. Features include cursor-linked plots, a live attitude indicator, and a flight path map for rapid analysis.
+### [FlightStream: F-16 Aerodynamic Modeling](/portfolio/project-1-flightstream.md)
+> Computed a complete set of static and dynamic aerodynamic derivatives utilizing results from FlightStream, a 3D aerodynamic panel method. 
 
-### [3D Printed VTOL Drone](/portfolio/3D-Printed-VTOL-Drone)
+### [3D Printed VTOL Drone](/portfolio/project-2-3d-printed-tail.md)
 > Contributed to a rapid-prototyping project to build a low-cost, 15-lb VTOL drone. My role involved SolidWorks design for the tail, materials testing (PLA Aero, PETG), and 3D printing of structural components.
-
-### [Real-Time Flight Data Plotter](/portfolio/Live-Plotter-in-Python)
-> Developed a custom Python GUI to plot live flight data streamed from an aircraft's receiver via a serial port, providing real-time system monitoring and post-flight analysis.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
