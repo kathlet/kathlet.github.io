@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<hr/>
+<hr/>
+
 Education
 ======
 <hr/>
