@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Mechanical Engineering** | [cite_start]Utah State University, Logan, Utah [cite: 8, 9]
-  * [cite_start]Expected December 2025 [cite: 12]
-  * [cite_start]GPA: 3.77 [cite: 13]
-* **B.S. in Mechanical Engineering** | [cite_start]Utah State University, Logan, Utah [cite: 10, 11]
-  * [cite_start]May 2024 [cite: 14]
-  * [cite_start]GPA: 3.85 [cite: 15]
+* **M.S. in Mechanical Engineering** | Utah State University, Logan, Utah
+  * _Expected December 2025_
+  * GPA: 3.77
+* **B.S. in Mechanical Engineering** | Utah State University, Logan, Utah
+  * _May 2024_
+  * GPA: 3.85
 
 Work Experience
 ======
-* **Graduate Student Researcher** | [cite_start]Utah State University AeroLab [cite: 24]
-  * [cite_start]*Jan 2023 - Present* [cite: 25]
-  * [cite_start]Supported the design, integration, and deployment of a modular, Teensy-based data acquisition system, supporting the project from component selection through to successful field testing. [cite: 26]
-  * [cite_start]Performed system identification on complex dynamic systems using a custom polynomial fitting code in Python to analyze test data, characterize system behavior, and validate predictive models. [cite: 27]
-  * [cite_start]Developed automated data processing workflows using Python and FlightStream scripting to create aerodynamic databases and extract and analyze key aerodynamic coefficients. [cite: 28]
+* **Graduate Student Researcher** | Utah State University AeroLab
+  * _Jan 2023 - Present_
+  * Supported the design, integration, and deployment of a modular, Teensy-based data acquisition system, from component selection through successful field testing.
+  * Performed system identification on complex dynamic systems using custom polynomial fitting code in Python to analyze test data, characterize system behavior, and validate predictive models.
+  * Developed automated data processing workflows using Python and FlightStream scripting to create aerodynamic databases and extract key aerodynamic coefficients.
 
-* **Graduate Teaching Assistant** | [cite_start]Utah State University [cite: 29]
-  * [cite_start]*Aug 2024 - May 2025* [cite: 30]
-  * [cite_start]Served as a teaching assistant for undergraduate Heat Transfer and Advanced Dynamics courses, mentoring over 100 students to enhance their understanding of core engineering principles. [cite: 31]
-  * [cite_start]Led supplemental instruction and review sessions weekly, focused on materials to clarify complex topics in thermodynamics. [cite: 32]
+* **Graduate Teaching Assistant** | Utah State University
+  * _Aug 2024 - May 2025_
+  * Served as a teaching assistant for undergraduate Heat Transfer and Advanced Dynamics courses, mentoring over 100 students.
+  * Led supplemental instruction and weekly review sessions to clarify complex thermodynamics topics.
 
-* **Undergraduate Student Researcher** | [cite_start]Brigham Young University [cite: 33]
-  * [cite_start]*May 2022 - Aug 2022* [cite: 34]
-  * [cite_start]Designed and fabricated robust electrical mounting systems for applications including an autonomous wheelchair and an underwater robot. [cite: 35]
-  * [cite_start]Utilized 3d printers, and metal lathes to develop the mounting systems. [cite: 36]
+* **Undergraduate Student Researcher** | Brigham Young University
+  * _May 2022 - Aug 2022_
+  * Designed and fabricated electrical mounting systems for an autonomous wheelchair and an underwater robot.
+  * Utilized 3D printers and metal lathes to develop mounting systems.
   
 Publications
 ======
@@ -44,16 +44,16 @@ Publications
 
 Skills
 ======
-* [cite_start]**Languages:** Python (NumPy, SciPy, Matplotlib), MATLAB, C/C++ (for Arduino/Teensy), FORTRAN [cite: 19]
-* [cite_start]**Software:** SolidWorks, FlightStream, LaTeX, Microsoft Office Suite [cite: 20]
-* [cite_start]**Analysis:** Polynomial Fitting, System Dynamics, Data Analysis, System Identification [cite: 21]
-* [cite_start]**Hardware & Mechatronics:** Teensy & Arduino Microcontrollers, Data Acquisition, System Integration, Sensor Selection, Servo Control [cite: 22]
+* **Languages:** Python (NumPy, SciPy, Matplotlib), MATLAB, C/C++ (Arduino/Teensy), FORTRAN
+* **Software:** SolidWorks, FlightStream, LaTeX, Microsoft Office Suite
+* **Analysis:** Polynomial fitting, system dynamics, data analysis, system identification
+* **Hardware & Mechatronics:** Teensy & Arduino microcontrollers, data acquisition, system integration, sensor selection, servo control
 
 Awards/Certifications
 ======
-* [cite_start]Fundamentals of Engineering (FE) Mechanical - NCEES (August 2023) [cite: 46]
-* [cite_start]Engineering Undergraduate Research Scholar (EURS) - USU (January 2023) [cite: 47]
-* Eagle Scout - Boy Scouts of America (May 2017) [cite: 48]
+* Fundamentals of Engineering (FE) Mechanical - NCEES (August 2023)
+* Engineering Undergraduate Research Scholar (EURS) - USU (January 2023)
+* Eagle Scout - Boy Scouts of America (May 2017)
 
 
   
