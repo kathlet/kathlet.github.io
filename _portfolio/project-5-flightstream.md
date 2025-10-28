@@ -8,6 +8,10 @@ Overview
 ======
 I used FlightStream to build a surface-panel aerodynamic model of a scaled F-16 and to compute static and dynamic aerodynamic derivatives. The project included CAD preparation, meshing, running parameter sweeps, extracting coefficients, and validating results against published datasets (NASA, MachUp).
 
+![FlightStream Surface Components](/images/flightstream_surface.png){:loading="lazy"}
+![FlightStream Mesh](/images/flightstream_mesh.png){:loading="lazy"}
+![FlightStream Pressure Plot](/images/flightstream.png){:loading="lazy"}
+
 Key responsibilities
 ======
 - Imported and prepared SolidWorks CAD geometry for panel discretization.
@@ -30,8 +34,4 @@ Tools & technologies
 - Python (post-processing, plotting)
 - Git (version control)
 
-Notes & next steps
-======
-- Improve mesh convergence testing and run sensitivity studies on panel density.
-- Integrate uncertainty quantification for derivative estimates.
-- Publish cleaned datasets and plotting scripts in a public repo when permitted.
+

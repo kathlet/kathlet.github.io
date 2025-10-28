@@ -1,6 +1,6 @@
 ---
-title: "Numerical Modeling & GUI Development"
-excerpt: "Developed physics-based numerical models and custom Python GUIs for real-time data plotting and post-processing."
+title: "Live Plotter in Python"
+excerpt: "Developed custom Python GUIs for real-time data plotting and post-processing<br/><img src='/images/live_plotter.png'>"
 collection: portfolio
 ---
 
