@@ -1,152 +1,175 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Kathle Tischner",
+    "email": "kathle.tischner@gmail.com",
+    "phone": "(385)201-3365",
+    "website": "https://kathlet.github.io",
+    "summary": "Mechanical engineer with a focus in aerodynamic modeling, dynamic systems, and data-driven system identification. Experienced in using FlightStream for aerodynamic database creation and analysis, comparing aerodynamic models derived from low and mid fidelity aerodynamic tools. Practiced at developing automated analysis pipelines in Python, with hands-on hardware integration experience.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Logan",
       "countryCode": "US",
-      "region": ""
+      "region": "UT"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "kathle-tischner",
+        "url": "https://linkedin.com/in/kathle-tischner"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "kathlet",
+        "url": "https://github.com/kathlet"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Utah State University AeroLab",
+      "position": "Graduate Student Researcher",
+      "startDate": "2023-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Supported the design, integration, and deployment of a modular, Teensy-based data acquisition system, supporting the project from component selection through to successful field testing.",
+        "Performed system identification on complex dynamic systems using a custom polynomial fitting code in Python to analyze test data, characterize system behavior, and validate predictive models.",
+        "Developed automated data processing workflows using Python and FlightStream scripting to create aerodynamic databases and extract and analyze key aerodynamic coefficients."
+      ]
+    },
+    {
+      "name": "Utah State University",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2024-08",
+      "endDate": "2025-05",
+      "summary": "",
+      "highlights": [
+        "Served as a teaching assistant for undergraduate Heat Transfer and Advanced Dynamics courses, mentoring over 100 students to enhance their understanding of core engineering principles.",
+        "Led supplemental instruction and review sessions weekly, focused on materials to clarify complex topics in thermodynamics."
+      ]
+    },
+    {
+      "name": "Brigham Young University",
+      "position": "Undergraduate Student Researcher",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "",
+      "highlights": [
+        "Designed and fabricated robust electrical mounting systems for applications including an autonomous wheelchair and an underwater robot.",
+        "Utilized 3d printers, and metal lathes to develop the mounting systems."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "Utah State University",
+      "area": "Mechanical Engineering",
+      "studyType": "Master of Science",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "endDate": "2025-12",
+      "gpa": "3.77",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "Utah State University",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2024-05",
+      "gpa": "3.85",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Python (NumPy, SciPy, Matplotlib)",
+        "MATLAB",
+        "C/C++ (for Arduino/Teensy)",
+        "FORTRAN"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "SolidWorks",
+        "FlightStream",
+        "LaTeX",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "Analysis",
+      "level": "",
+      "keywords": [
+        "Polynomial Fitting",
+        "System Dynamics",
+        "Data Analysis",
+        "System Identification"
+      ]
+    },
+    {
+      "name": "Hardware & Mechatronics",
+      "level": "",
+      "keywords": [
+        "Teensy & Arduino Microcontrollers",
+        "Data Acquisition",
+        "System Integration",
+        "Sensor Selection",
+        "Servo Control"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
-  "references": [],
+  "references": [
+    {
+      "name": "Fundamentals of Engineering (FE) Mechanical - NCEES (August 2023)"
+    },
+    {
+      "name": "Engineering Undergraduate Research Scholar (EURS) - USU (January 2023)"
+    },
+    {
+      "name": "Eagle Scout - Boy Scouts of America (May 2017)"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Aerodynamic Parameter Estimation For A Scaled F-16: A Simulation-Based Sensitivity Analysis",
+      "publisher": "AIAA Science and Technology Forum and Exposition (SciTech), Orlando, FL",
+      "releaseDate": "2026-01",
+      "website": "",
+      "summary": "(Accepted)"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Heat Transfer and Advanced Dynamics",
+      "institution": "Utah State University",
+      "date": "2024-08-01",
+      "role": "Graduate Teaching Assistant",
+      "description": "Served as a teaching assistant for undergraduate courses, mentoring over 100 students. Led supplemental instruction and review sessions weekly."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Numerical Modeling & GUI Development | Python",
+      "category": "Academic Project",
+      "date": "2023-12-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Developed physics-based numerical models to predict system behavior using measured data from onboard sensors. Engineered custom Python GUIs for real-time plotting of live data streams and for post-processing of large datasets."
+    },
+    {
+      "name": "Embedded Mechatronic System | Arduino/C++",
+      "category": "Academic Project",
+      "date": "2024-05-01",
+      "url": "",
+      "description": "Developed and programmed a Teensy microcontroller to manage multiple I/O tasks simultaneously, including data logging, sensor interfacing, and actuator control."
     }
   ]
 }
