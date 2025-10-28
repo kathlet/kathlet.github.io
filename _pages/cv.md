@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+<hr/>
 * **M.S. in Mechanical Engineering**  
   Utah State University — _Logan, Utah_
   * _Expected December 2025_
@@ -23,6 +24,7 @@ Education
 
 Work Experience
 ======
+<hr/>
 * **Graduate Student Researcher**  
   _Utah State University AeroLab_
   * _Jan 2023 - Present_
@@ -44,12 +46,14 @@ Work Experience
   
 Publications
 ======
+<hr/>
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Skills
 ======
+<hr/>
 * **Languages:** Python (NumPy, SciPy, Matplotlib), MATLAB, C/C++ (Arduino/Teensy), FORTRAN
 * **Software:** SolidWorks, FlightStream, LaTeX, Microsoft Office Suite
 * **Analysis:** Polynomial fitting, system dynamics, data analysis, system identification
@@ -57,6 +61,7 @@ Skills
 
 Awards/Certifications
 ======
+<hr/>
 * [Fundamentals of Engineering (FE) Mechanical - NCEES (August 2023)](https://account.ncees.org/rn/2319684-1624903-f7a6ec9)
 * Engineering Undergraduate Research Scholar (EURS) - USU (January 2023)
 * Eagle Scout - Boy Scouts of America (May 2017)
