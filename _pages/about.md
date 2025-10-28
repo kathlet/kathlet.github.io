@@ -21,10 +21,10 @@ I am actively seeking full-time opportunities where I can apply my skills in aer
 
 Here are a few examples of my work. You can find more on my [Portfolio page](/portfolio/).
 
-### [FlightStream: F-16 Aerodynamic Modeling](/portfolio/project-1-flightstream.md)
+### [FlightStream: F-16 Aerodynamic Modeling](/portfolio/project-1-flightstream)
 > Computed a complete set of static and dynamic aerodynamic derivatives utilizing results from FlightStream, a 3D aerodynamic panel method. 
 
-### [3D Printed VTOL Drone](/portfolio/project-2-3d-printed-tail.md)
+### [3D Printed VTOL Drone](/portfolio/project-2-3d-printed-tail)
 > Contributed to a rapid-prototyping project to build a low-cost, 15-lb VTOL drone. My role involved SolidWorks design for the tail, materials testing (PLA Aero, PETG), and 3D printing of structural components.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
