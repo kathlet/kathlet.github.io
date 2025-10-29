@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Mechanical Engineer pursuing my M.S. at Utah State University with a focus in aerodynamic modeling, dynamic systems, and data-driven system identification.
+I am a Mechanical Engineer pursuing my M.S. at Utah State University with a focus in aerodynamic modeling, dynamic systems, and data-driven system identification.
 
-My core experience includes using FlightStream for aerodynamic database creation, developing automated data analysis pipelines in Python , and hands-on hardware integration with Teensy and Arduino systems.
+My core experience includes using FlightStream for aerodynamic database creation, developing automated data analysis pipelines in Python, and hands-on hardware integration with Teensy and Arduino systems.
 
 I am actively seeking full-time opportunities where I can apply my skills in aerodynamics, controls, and mechatronics. Please feel free to explore my work below and contact me.
 
