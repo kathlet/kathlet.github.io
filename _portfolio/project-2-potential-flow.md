@@ -24,7 +24,7 @@ This solver's capabilities are demonstrated in the included PDF report, which co
 
 ### Functionality
 * ***Streamline Visualization:*** Plots potential flow streamlines around various airfoil geometries (like the NACA 2412, 2421, and 0015) at different angles of attack to visualize flow behavior.
-* ***Lift Curve Validation:*** Generates lift-curve slopes ($C_L$ vs. $\alpha$) and validates them against experimental data, thin airfoil theory, and other established solvers like XFOIL.
+* ***Lift Curve Validation:*** Generates lift-curve slopes ($C_L \text{ vs. } \alpha$) and validates them against experimental data, thin airfoil theory, and other established solvers like XFOIL.
 * ***Pressure Distribution:*** Calculates and plots the pressure coefficient ($C_p$) distribution over an airfoil's surface. This is essential for identifying regions of high and low pressure and for calculating the overall lift.
 
 ![Pressure Plot Over an Airfoil](/images/pressure_plot.png){:loading="lazy"}
