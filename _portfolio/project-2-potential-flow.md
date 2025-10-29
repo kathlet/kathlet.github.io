@@ -21,6 +21,6 @@ collection: portfolio
 
 ![Pressure Plot Over an Airfoil](/images/pressure_plot.png){:loading="lazy"}
 
-### 
 
-<div style="position:relative;padding-bottom:140%;height:0;overflow:hidden;"> <iframe src="{{ '/files/A11-A26.pdf' | relative_url }}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe> </div> <p><a href="{{ '/files/A11-A26.pdf' | relative_url }}">Download the PDF (A11–A26)</a></p>
+
+<div style="position:relative;padding-bottom:140%;height:0;overflow:hidden;"> <iframe src="{{ '/files/A11_A26.pdf' | relative_url }}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe> </div> <p><a href="{{ '/files/A11_A26.pdf' | relative_url }}">Download the PDF (A11–A26)</a></p>
